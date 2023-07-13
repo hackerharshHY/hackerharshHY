@@ -7,10 +7,7 @@
 - 😉 I'd mr_____harsh_p
 ### 📫 How to reach me ...
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@prabhudev#6694)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/BindPrabhudevJK)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/prabhudev-bind-773000250/) 
-<!---
-Devcoder980/Devcoder980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 <h3>Languages and Tools:</h3>
     <p>
